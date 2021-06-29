@@ -9,7 +9,7 @@ Etape 3 : créer un nouveau projet (django-admin startproject minngma)
 
 
 
-
+Pour générer un pdf dynamique avec django, il faut installer le module reportlab (python -m pip install reportlab)
 
 <!---
 ousseni99/ousseni99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
